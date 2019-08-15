@@ -18,7 +18,7 @@ filename=save_dir
 
 # im=Image.fromarray(image_array,'L')
 # im.show()
-m=mp.
+
 # mp.gray()
 mp.imshow(image_array)
 mp.show()
