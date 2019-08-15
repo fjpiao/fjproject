@@ -24,4 +24,4 @@ mp.imshow(image_array)
 mp.show()
 # print(mnist.train.labels[0,:])
 
-#git1
+#git2
