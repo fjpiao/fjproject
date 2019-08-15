@@ -23,3 +23,5 @@ filename=save_dir
 mp.imshow(image_array)
 mp.show()
 # print(mnist.train.labels[0,:])
+
+#git1
